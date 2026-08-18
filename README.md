@@ -1,6 +1,6 @@
-*Olá 👋
+* Olá 👋
 
-meu nome é Isabela e sou estudante de Desenvolvimento de Sistema**.
+meu nome é Isabela e sou estudante de Desenvolvimento de Sistema.
 
 Atualmente estou desenvolvendo meus conhecimentos de programação, desenvolvimento de aplicações e boas práticas de desenvolvimento de software.
 
@@ -16,7 +16,7 @@ Atualmente estou desenvolvendo meus conhecimentos de programação, desenvolvime
 * C#
 * Banco de Dados
 
-##Atualmente estudando
+## Atualmente estudando
 
 * Lógica de Programação
 * Desenvolvimento Front-End
